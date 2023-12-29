@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NGO-website/static/css/main.9561b5e3.css",
+    "main.js": "/NGO-website/static/js/main.a5fdf896.js",
+    "index.html": "/NGO-website/index.html",
+    "main.9561b5e3.css.map": "/NGO-website/static/css/main.9561b5e3.css.map",
+    "main.a5fdf896.js.map": "/NGO-website/static/js/main.a5fdf896.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9561b5e3.css",
+    "static/js/main.a5fdf896.js"
+  ]
+}
